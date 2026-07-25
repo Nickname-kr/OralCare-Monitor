@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" preserveAspectRatio="xMidYMid meet" role="img" aria-label="잇몸">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffdfc"/><stop offset="1" stop-color="#f7e1de"/></linearGradient>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5b1b7"/><stop offset="1" stop-color="#cf6675"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#7e3f4a" flood-opacity=".15"/></filter>
+  </defs>
+  <rect width="400" height="300" rx="28" fill="url(#bg)"/>
+  
+  <path d="M56 99 Q200 25 344 99 L322 157 Q200 126 78 157Z" fill="#e89aa2" filter="url(#shadow)"/>
+  <path d="M63 201 Q200 268 337 201 L318 151 Q200 184 82 151Z" fill="#e89aa2" filter="url(#shadow)"/>
+  <g fill="#fff" stroke="#d9dfe4" stroke-width="2">
+    <rect x="85" y="91" width="34" height="59" rx="12"/><rect x="124" y="73" width="35" height="69" rx="12"/><rect x="164" y="65" width="36" height="74" rx="12"/><rect x="204" y="65" width="36" height="74" rx="12"/><rect x="244" y="73" width="35" height="69" rx="12"/><rect x="283" y="91" width="34" height="59" rx="12"/>
+    <rect x="85" y="156" width="34" height="55" rx="12"/><rect x="124" y="163" width="35" height="63" rx="12"/><rect x="164" y="166" width="36" height="67" rx="12"/><rect x="204" y="166" width="36" height="67" rx="12"/><rect x="244" y="163" width="35" height="63" rx="12"/><rect x="283" y="156" width="34" height="55" rx="12"/>
+  </g><ellipse cx="200" cy="91" rx="126" ry="31" fill="#1d5da9" fill-opacity=".14" stroke="#1d5da9" stroke-width="5" stroke-dasharray="10 7"/><circle cx="200" cy="91" r="5" fill="#1d5da9"/>
+</svg>

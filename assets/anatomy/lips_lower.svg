@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" preserveAspectRatio="xMidYMid meet" role="img" aria-label="입술">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffdfc"/><stop offset="1" stop-color="#f7e1de"/></linearGradient>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5b1b7"/><stop offset="1" stop-color="#cf6675"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#7e3f4a" flood-opacity=".15"/></filter>
+  </defs>
+  <rect width="400" height="300" rx="28" fill="url(#bg)"/>
+  
+  <g filter="url(#shadow)">
+    <path d="M65 150 C105 94 150 96 200 122 C250 96 295 94 335 150 C293 207 248 207 200 180 C152 207 107 207 65 150Z" fill="#dc7b88"/>
+    <path d="M82 150 C121 126 159 129 200 143 C241 129 279 126 318 150 C280 169 241 170 200 158 C159 170 120 169 82 150Z" fill="#7b3441"/>
+    <path d="M104 150 C138 139 169 140 200 147 C231 140 262 139 296 150 C263 158 231 159 200 153 C169 159 137 158 104 150Z" fill="#fffaf7"/>
+  </g><ellipse cx="200" cy="178" rx="100" ry="31" fill="#1d5da9" fill-opacity=".14" stroke="#1d5da9" stroke-width="5" stroke-dasharray="10 7"/><circle cx="200" cy="178" r="5" fill="#1d5da9"/>
+</svg>

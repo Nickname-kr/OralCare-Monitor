@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" preserveAspectRatio="xMidYMid meet" role="img" aria-label="입천장">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffdfc"/><stop offset="1" stop-color="#f7e1de"/></linearGradient>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5b1b7"/><stop offset="1" stop-color="#cf6675"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#7e3f4a" flood-opacity=".15"/></filter>
+  </defs>
+  <rect width="400" height="300" rx="28" fill="url(#bg)"/>
+  
+  <path d="M60 177 C62 74 125 28 200 28 C275 28 338 74 340 177 C299 240 101 240 60 177Z" fill="#efa6aa" filter="url(#shadow)"/>
+  <path d="M105 167 C106 92 147 65 200 65 C253 65 294 92 295 167 C264 202 136 202 105 167Z" fill="#d87983"/>
+  <path d="M200 71 L200 184" stroke="#bd5968" stroke-width="4" stroke-linecap="round" opacity=".45"/>
+  <path d="M155 96 Q200 73 245 96 M143 119 Q200 88 257 119 M139 145 Q200 110 261 145" fill="none" stroke="#bd5968" stroke-width="3" opacity=".35"/>
+  <rect x="78" y="80" width="30" height="48" rx="11" fill="#fffdfb" stroke="#d8dde3" stroke-width="2" transform="rotate(-30 93 104)"/><rect x="112" y="55" width="30" height="48" rx="11" fill="#fffdfb" stroke="#d8dde3" stroke-width="2" transform="rotate(-18 127 79)"/><rect x="153" y="42" width="30" height="48" rx="11" fill="#fffdfb" stroke="#d8dde3" stroke-width="2" transform="rotate(-7 168 66)"/><rect x="198" y="42" width="30" height="48" rx="11" fill="#fffdfb" stroke="#d8dde3" stroke-width="2" transform="rotate(7 213 66)"/><rect x="239" y="55" width="30" height="48" rx="11" fill="#fffdfb" stroke="#d8dde3" stroke-width="2" transform="rotate(18 254 79)"/><rect x="274" y="80" width="30" height="48" rx="11" fill="#fffdfb" stroke="#d8dde3" stroke-width="2" transform="rotate(30 289 104)"/><ellipse cx="200" cy="94" rx="72" ry="37" fill="#1d5da9" fill-opacity=".14" stroke="#1d5da9" stroke-width="5" stroke-dasharray="10 7"/><circle cx="200" cy="94" r="5" fill="#1d5da9"/>
+</svg>
