@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" preserveAspectRatio="xMidYMid meet" role="img" aria-label="어금니 뒤">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffaf9"/><stop offset="1" stop-color="#f2e4e2"/></linearGradient>
+  <linearGradient id="muc" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6b3b7"/><stop offset="1" stop-color="#d96b79"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="6" stdDeviation="7" flood-color="#733948" flood-opacity=".16"/></filter>
+</defs>
+<rect width="400" height="300" rx="34" fill="url(#bg)"/>
+<ellipse cx="200" cy="153" rx="150" ry="113" fill="#efadb0" stroke="#d27d88" stroke-width="3" filter="url(#shadow)"/>
+<path d="M72 130 Q200 55 328 130 Q308 170 200 175 Q92 170 72 130Z" fill="#7e3442"/>
+<rect x="91" y="91" width="32" height="42" rx="9" fill="#fffdf9" stroke="#d9dde1" stroke-width="2"/><rect x="127" y="78" width="32" height="42" rx="9" fill="#fffdf9" stroke="#d9dde1" stroke-width="2"/><rect x="164" y="72" width="32" height="42" rx="9" fill="#fffdf9" stroke="#d9dde1" stroke-width="2"/><rect x="202" y="78" width="32" height="42" rx="9" fill="#fffdf9" stroke="#d9dde1" stroke-width="2"/><rect x="238" y="91" width="32" height="42" rx="9" fill="#fffdf9" stroke="#d9dde1" stroke-width="2"/><rect x="91" y="169" width="32" height="38" rx="9" fill="#fffdf9" stroke="#d9dde1" stroke-width="2"/><rect x="127" y="181" width="32" height="38" rx="9" fill="#fffdf9" stroke="#d9dde1" stroke-width="2"/><rect x="164" y="187" width="32" height="38" rx="9" fill="#fffdf9" stroke="#d9dde1" stroke-width="2"/><rect x="202" y="181" width="32" height="38" rx="9" fill="#fffdf9" stroke="#d9dde1" stroke-width="2"/><rect x="238" y="169" width="32" height="38" rx="9" fill="#fffdf9" stroke="#d9dde1" stroke-width="2"/>
+<path d="M126 166 Q200 119 274 166 Q270 229 200 246 Q130 229 126 166Z" fill="url(#muc)" stroke="#bf5365" stroke-width="3"/><ellipse cx="91" cy="151" rx="28" ry="52" fill="#d06b79" opacity=".72"/><ellipse cx="309" cy="151" rx="28" ry="52" fill="#d06b79" opacity=".72"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" preserveAspectRatio="xMidYMid meet" role="img" aria-label="윗입술">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffaf9"/><stop offset="1" stop-color="#f2e4e2"/></linearGradient>
+  <linearGradient id="muc" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6b3b7"/><stop offset="1" stop-color="#d96b79"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="6" stdDeviation="7" flood-color="#733948" flood-opacity=".16"/></filter>
+</defs>
+<rect width="400" height="300" rx="34" fill="url(#bg)"/>
+<path d="M55 150 Q115 72 200 101 Q285 72 345 150 Q280 235 200 203 Q120 235 55 150Z" fill="url(#muc)" stroke="#b94b61" stroke-width="4" filter="url(#shadow)"/>
+<path d="M70 151 Q135 127 200 139 Q265 127 330 151 Q264 175 200 165 Q136 175 70 151Z" fill="#7b2d40"/>
+<path d="M94 151 Q147 142 200 148 Q253 142 306 151 Q253 160 200 156 Q147 160 94 151Z" fill="#fff9f4"/><ellipse cx="200" cy="122" rx="103" ry="32" fill="#2b73bc22" stroke="#2b73bc" stroke-width="5" stroke-dasharray="10 7"/><text x="200" y="127" text-anchor="middle" font-size="13" font-family="sans-serif" font-weight="700" fill="#123d78">윗입술</text>
+</svg>

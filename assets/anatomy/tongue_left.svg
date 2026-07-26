@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" preserveAspectRatio="xMidYMid meet" role="img" aria-label="혀 왼쪽 옆면">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffaf9"/><stop offset="1" stop-color="#f2e4e2"/></linearGradient>
+  <linearGradient id="muc" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6b3b7"/><stop offset="1" stop-color="#d96b79"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="6" stdDeviation="7" flood-color="#733948" flood-opacity=".16"/></filter>
+</defs>
+<rect width="400" height="300" rx="34" fill="url(#bg)"/>
+<path d="M115 58 Q200 30 285 58 L303 206 Q277 257 200 271 Q123 257 97 206Z" fill="url(#muc)" stroke="#b9485e" stroke-width="4" filter="url(#shadow)"/>
+<path d="M200 61 L200 245" stroke="#c55b6e" stroke-width="3" opacity=".65"/>
+<g fill="#c95d70" opacity=".55"><circle cx="151" cy="101" r="5"/><circle cx="177" cy="93" r="4"/><circle cx="225" cy="94" r="4"/><circle cx="251" cy="104" r="5"/><circle cx="157" cy="133" r="4"/><circle cx="239" cy="135" r="4"/></g><ellipse cx="124" cy="160" rx="32" ry="86" fill="#2b73bc22" stroke="#2b73bc" stroke-width="5" stroke-dasharray="10 7"/><text x="124" y="165" text-anchor="middle" font-size="13" font-family="sans-serif" font-weight="700" fill="#123d78">왼쪽</text>
+</svg>
