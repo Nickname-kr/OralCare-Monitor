@@ -1,0 +1,25 @@
+{
+  "name": "OralCare Monitor",
+  "short_name": "OralCare",
+  "description": "구강점막 병소의 반복 촬영과 기록 비교를 돕는 앱",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f8fc",
+  "theme_color": "#123d78",
+  "lang": "ko-KR",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
